@@ -1,0 +1,8 @@
+deep-translator
+pandas
+gradio
+PyPDF2
+matplotlib
+openpyxl
+gTTS
+wordcloud
